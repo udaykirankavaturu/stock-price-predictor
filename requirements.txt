@@ -1,4 +1,1 @@
-pandas
-scikit-learn
-yfinance
-pandas_datareader
+flask
