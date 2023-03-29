@@ -2,3 +2,8 @@ fileignoreconfig:
 - filename: model_builder.ipynb
   checksum: da43b700d07ff2e499ba547f114465d502c5dcaff9f67e05fc9fc6e7f401c663
 version: ""
+
+fileignoreconfig:
+- filename: model_builder.ipynb
+  checksum: 8ca30b3dd2afab2261ba39032747ec2c93165882e286c9a3b775b8f660caabbb
+version: ""
