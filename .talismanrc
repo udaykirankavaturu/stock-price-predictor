@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: model_builder.ipynb
+  checksum: da43b700d07ff2e499ba547f114465d502c5dcaff9f67e05fc9fc6e7f401c663
+version: ""
